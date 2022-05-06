@@ -1,5 +1,5 @@
-hello,this is git test
-how r u doing today.
+helloo,this is git test
+how r u doing today?
 now this is a new add file.
 dfdsfdsfdsfdsfdsf
 
